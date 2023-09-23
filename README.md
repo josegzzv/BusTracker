@@ -53,7 +53,7 @@ Here are some pending tasks and future enhancements that we plan to implement in
 
 If you'd like to contribute to any of these tasks or have other ideas, please let us know!
 
-<a href="https://github.com/josegzzv/BusTracker">Go to Repository</a>
+<a href="https://josegzzv.github.io/BusTracker">Go to Repository</a>
 
 ---
 
