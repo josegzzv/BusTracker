@@ -51,7 +51,7 @@ Here are some pending tasks and future enhancements that we plan to implement in
  - [ ] Show if the bus has a bycicle rack.
  - [ ] Implement notifications for bus delays and updates.
 
-If you'd like to contribute to any of these tasks or have other ideas, please let us know!
+If you'd like to contribute to any of these tasks or have other ideas, please let me know!
 
 <a href="https://josegzzv.github.io/BusTracker">Go to Repository</a>
 
