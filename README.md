@@ -21,7 +21,7 @@ This project provides a real-time bus tracking application between the Massachus
 
 ## Usage
 
-1. Visit the online <a href="https://github.com/josegzzv/BusTracker">Demo website</a>.
+1. Visit the online <a href="https://github.com/josegzzv/BusTracker/BusTracker">Demo website</a>.
 2. View the real-time map displaying the current location of buses.
 3. Identify buses by their color and check their unique identifier below the bus icon to determine their direction.
 4. Plan your commute between MIT and Harvard more efficiently by knowing the current bus locations.
